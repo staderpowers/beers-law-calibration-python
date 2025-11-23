@@ -21,6 +21,9 @@ The model produced a strong linear relationship (R² > 0.99), consistent with Be
 - `Beers_Law_Python_Project_Stader_Powers.pdf` — polished project PDF  
 - `beers_law_data.csv` (optional)
 
+![Beer’s Law Calibration Curve](beers_law_calibration_curve.png)
+
+
 ## Author
 Stader Powers
 General Engineering, University of Mississippi
